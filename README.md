@@ -6,4 +6,4 @@ Given a string s consisting of words and spaces, return the length of the last w
 A word is a maximal substring consisting of non-space characters only.
 
 ## Language
-Java
+Java 12
